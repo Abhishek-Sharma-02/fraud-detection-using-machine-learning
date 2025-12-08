@@ -70,7 +70,7 @@ tqdm==4.51.0              # via papermill
 traitlets==4.3.3          # via -r requirements.in, jupyter-client, jupyter-core, nbclient, nbformat
 typed-ast==1.4.1          # via black
 typing-extensions==3.7.4.3  # via black
-urllib3==1.25.11          # via botocore, requests
+urllib3==2.6.0          # via botocore, requests
 watchtower==1.0.0         # via -r requirements.in
 zipp==3.4.0               # via importlib-metadata
 
