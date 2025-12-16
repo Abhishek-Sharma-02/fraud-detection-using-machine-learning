@@ -65,7 +65,7 @@ tenacity==6.2.0           # via papermill
 textwrap3==0.9.2          # via ansiwrap
 threadpoolctl==2.1.0      # via scikit-learn
 toml==0.10.2              # via black
-tornado==6.1              # via jupyter-client
+tornado==6.5.3              # via jupyter-client
 tqdm==4.51.0              # via papermill
 traitlets==4.3.3          # via -r requirements.in, jupyter-client, jupyter-core, nbclient, nbformat
 typed-ast==1.4.1          # via black
