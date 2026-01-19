@@ -44,7 +44,7 @@ pathspec==0.8.1           # via black
 pillow==8.0.1             # via matplotlib
 protobuf3-to-dict==0.1.5  # via sagemaker
 protobuf==3.13.0          # via protobuf3-to-dict, sagemaker
-pyasn1==0.4.8             # via rsa
+pyasn1==0.6.2             # via rsa
 pyparsing==2.4.7          # via matplotlib, packaging
 pyrsistent==0.17.3        # via jsonschema
 python-dateutil==2.8.1    # via botocore, jupyter-client, matplotlib, pandas
