@@ -55,7 +55,7 @@ regex==2020.11.11         # via black
 requests==2.25.0          # via aws-requests-auth, papermill
 rsa==4.5                  # via awscli
 s3transfer==0.3.3         # via awscli, boto3
-sagemaker==1.72.0         # via -r requirements.in
+sagemaker==2.256.0         # via -r requirements.in
 scikit-learn==0.23.2      # via -r requirements.in, imbalanced-learn
 scipy==1.5.4              # via imbalanced-learn, sagemaker, scikit-learn, seaborn
 seaborn==0.11.0           # via -r requirements.in
